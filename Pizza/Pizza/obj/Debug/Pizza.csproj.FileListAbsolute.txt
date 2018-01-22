@@ -1,0 +1,9 @@
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\bin\Debug\Pizza.exe.config
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.exe
+c:\users\dragon\documents\visual studio 2015\Projects\Pizza\Pizza\obj\Debug\Pizza.pdb
